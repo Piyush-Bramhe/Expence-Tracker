@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="14"
+        android:translateY="14">
+        <!-- Bar 1 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M24,64 h8 v-12 h-8 z" />
+        <!-- Bar 2 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M38,64 h8 v-22 h-8 z" />
+        <!-- Bar 3 -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,64 h8 v-32 h-8 z" />
+        <!-- Soaring Diagonal Growth Arrow -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M20,54 L52,22 h-12 v-4 h20 v20 h-4 v-12 L22,51 z" />
+    </group>
+</vector>

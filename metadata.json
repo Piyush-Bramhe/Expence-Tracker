@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "A highly-polished modern expense tracker with interactive charts, local authentication, budget goal settings, visual analytics, and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
